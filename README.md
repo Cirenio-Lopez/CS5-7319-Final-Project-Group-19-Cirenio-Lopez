@@ -27,7 +27,7 @@ npm i
 
 ## 3. How to Execute the System
 
-To execute the web crawler, navigate to the project directory in your terminal and run:
+To execute the web crawler, navigate to the project directory in your terminal (Inside of the "Selected" folder) and run:
 
 ```bash
 node app.js -d https://smu.edu
